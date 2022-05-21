@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Moscow
     date_start: '2010-01-09'
-    date_end: '2021-14-06'
+    date_end: '2021-06-06'
     description: |2-
         Responsibilities include:
         
